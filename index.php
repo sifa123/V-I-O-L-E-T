@@ -213,20 +213,20 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="h.jpg" style="width:100%">
-  <div class="text">Happy Moment</div>
+  <img src="h.jpg" style="width:100%;height: 530px;">
+  <div class="text" style="color: black;font-size: 35px;">Happy Moment</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="ethnics.jpg" style="width:100%">
-  <div class="text">Pleasent Ethnics</div>
+  <img src="ethnics.jpg" style="width:100%;height: 530px;">
+  <div class="text" style="color: black;font-size: 35px;">Pleasent Ethnics</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="k (2).jpg" style="width:100%">
-  <div class="text">About Fashion</div>
+  <img src="k (2).jpg" style="width:100%;height: 530px;">
+  <div class="text" style="color: black;font-size: 35px;">About Fashion</div>
 </div>
 
 
